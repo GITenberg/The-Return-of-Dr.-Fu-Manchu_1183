@@ -1,5 +1,8 @@
 _repo: The-Return-of-Dr.-Fu-Manchu_1183
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohmer, Sax
@@ -12,6 +15,8 @@ creator:
 description: '"The insidious doctor returns to Great Britain with his league of assassins,
   the dreaded Si-Fan. He seeks to subvert the realm at the highest levels, but Fu-Manchu
   has his own secrets--which he will protect by any means."--P. [4] of cover.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1183#The-Return-of-Dr.-Fu-Manchu
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
